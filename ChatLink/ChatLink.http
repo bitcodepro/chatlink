@@ -1,0 +1,6 @@
+@ChatLink_HostAddress = http://localhost:5117
+
+GET {{ChatLink_HostAddress}}/
+Accept: application/json
+
+###
